@@ -1,0 +1,5 @@
+[package]
+name="nanosvg"
+version="0.0.1"
+description="svg library for c"
+include="src"
